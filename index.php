@@ -23,7 +23,7 @@
             <!-- place navbar here -->
         </header>
         <main>
-            <h1>Bienvenido de la pagina de Margarita</h1>
+            <h1>Bienvenido de la pagina Margarita</h1>
         </main>
         <footer>
             <!-- place footer here -->
