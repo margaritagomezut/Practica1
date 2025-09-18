@@ -24,6 +24,16 @@
         </header>
         <main>
             <h1>Bienvenido de la pagina Margarita</h1>
+
+            <div class="card">
+                <img class="card-img-top" src="holder.js/100x180/" alt="Title" />
+                <div class="card-body">
+                    <h4 class="card-title">Aplicaciones web</h4>
+                    <p class="card-text">Grado y grupo: 4"B"</p>
+                    <p class="card-text">Autor:Margarita Gomez Espinoza</p>
+                </div>
+            </div>
+            
         </main>
         <footer>
             <!-- place footer here -->
