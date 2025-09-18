@@ -21,7 +21,7 @@
     <body>
         <header>
             <!-- place navbar here -->
-        </header>
+            <?php include 'menu.php'; ?>
         <main>
             <h1>Bienvenido de la pagina Margarita</h1>
 
